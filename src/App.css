@@ -68,3 +68,14 @@
   margin : 2px;
   cursor : pointer;
 }
+@media screen and (max-width:600px){
+  .jumbotron .form input{
+    width: 250px;
+  }
+  .card{
+    width: 300px;
+  }
+  .button-action{
+    flex:2;
+  }
+}
