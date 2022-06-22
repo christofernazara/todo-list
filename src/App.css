@@ -68,7 +68,7 @@
   margin : 2px;
   cursor : pointer;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:600px) and (max-width:300px)  {
   .jumbotron .form input{
     width: 250px;
   }
