@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/christofernazara/todo-list.git/static/css/main.5a98d757.css",
-    "main.js": "/christofernazara/todo-list.git/static/js/main.b262968d.js",
-    "static/js/787.63e47474.chunk.js": "/christofernazara/todo-list.git/static/js/787.63e47474.chunk.js",
-    "index.html": "/christofernazara/todo-list.git/index.html",
-    "main.5a98d757.css.map": "/christofernazara/todo-list.git/static/css/main.5a98d757.css.map",
-    "main.b262968d.js.map": "/christofernazara/todo-list.git/static/js/main.b262968d.js.map",
-    "787.63e47474.chunk.js.map": "/christofernazara/todo-list.git/static/js/787.63e47474.chunk.js.map"
+    "main.css": "/christofernazara/todo-list/static/css/main.5a98d757.css",
+    "main.js": "/christofernazara/todo-list/static/js/main.7c484b51.js",
+    "static/js/787.63e47474.chunk.js": "/christofernazara/todo-list/static/js/787.63e47474.chunk.js",
+    "index.html": "/christofernazara/todo-list/index.html",
+    "main.5a98d757.css.map": "/christofernazara/todo-list/static/css/main.5a98d757.css.map",
+    "main.7c484b51.js.map": "/christofernazara/todo-list/static/js/main.7c484b51.js.map",
+    "787.63e47474.chunk.js.map": "/christofernazara/todo-list/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a98d757.css",
-    "static/js/main.b262968d.js"
+    "static/js/main.7c484b51.js"
   ]
 }
