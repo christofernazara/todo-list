@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/christofernazara/todo-list.git/static/css/main.5a98d757.css",
+    "main.js": "/christofernazara/todo-list.git/static/js/main.33d57267.js",
+    "static/js/787.63e47474.chunk.js": "/christofernazara/todo-list.git/static/js/787.63e47474.chunk.js",
+    "index.html": "/christofernazara/todo-list.git/index.html",
+    "main.5a98d757.css.map": "/christofernazara/todo-list.git/static/css/main.5a98d757.css.map",
+    "main.33d57267.js.map": "/christofernazara/todo-list.git/static/js/main.33d57267.js.map",
+    "787.63e47474.chunk.js.map": "/christofernazara/todo-list.git/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a98d757.css",
+    "static/js/main.33d57267.js"
+  ]
+}
